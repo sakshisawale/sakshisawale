@@ -4,17 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;MERN+Stack+Developer;AI+Enthusiast;Java+Developer;Building+Cool+Things+🚀&center=true&width=600&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshisawale&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
-
 ---
 
 # 🌸 About Me
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-👩‍💻 Computer Engineering Student (3rd Year)  
+👩‍💻 Computer Engineering Student
 🎓 R.C. Patel Institute of Technology  
 📍 Maharashtra, India  
 
@@ -58,49 +54,7 @@
 ![git](https://skillicons.dev/icons?i=git)
 ![github](https://skillicons.dev/icons?i=github)
 ![canva](https://skillicons.dev/icons?i=figma)
-
----
-
-# 🌟 Featured Projects
-
-## 🧬 AI-Enhanced Drug Discovery Assistant
-🔹 Predict molecular properties & toxicity  
-🔹 Built with AI + React + Supabase  
-🔹 Helps researchers optimize compounds  
-
----
-
-## 🎤 Speech to Text Converter
-🔹 Real-time voice to text conversion  
-🔹 Built using Python & Tkinter  
-🔹 Includes translation features  
-
----
-
-## 🤖 Next Word Prediction
-🔹 NLP-based machine learning model  
-🔹 Predicts next word in sentences  
-🔹 Trained on datasets  
-
----
-
-## 🕵️ TASK_AK (Treasure Hunt Game)
-🔹 Puzzle-based debugging challenge  
-🔹 Multi-level progression system  
-🔹 Hidden keys & logical solving  
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshisawale&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshisawale&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshisawale&layout=compact&theme=radical&hide_border=true" width="50%" />
-</p>
+ 
 
 ---
 
@@ -118,19 +72,12 @@
 
 <p align="center">
 <a href="mailto:sawalesakshi2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sakshi-sawale-482671273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/sakshisawale"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/sakshisawale/sakshisawale/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 💫 Quote
 
