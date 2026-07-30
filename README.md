@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Graduate · Java Developer · Software Development Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Engineering+Graduate;Java+%7C+Spring+%7C+React+%7C+MySQL;Exploring+Full-Stack+Development+%26+AI;Building+skills+through+real-world+projects;Always+learning%2C+building+and+improving." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Engineering+Graduate;Exploring+Full-Stack+Development+%26+AI;Building+skills+through+real-world+projects;Always+learning%2C+building+and+improving." />
 
 </div>
 
