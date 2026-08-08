@@ -2,7 +2,7 @@
 
 # 👋 Sakshi Sawale
 
-### 💻 Computer Engineering Graduate · Java Developer · Software Development Enthusiast
+### 💻 Computer Engineering Graduate · Software Development Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Computer+Engineering+Graduate;Exploring+Full-Stack+Development+%26+AI;Building+skills+through+real-world+projects;Always+learning%2C+building+and+improving." />
 
@@ -14,7 +14,7 @@
 
 I am a **Computer Engineering graduate** with a foundation in **Java, web development, databases, and problem solving**.
 
-Through internships, academic work, and personal learning, I have gained hands-on exposure to **Java, Spring Framework, React.js, REST APIs, MySQL, Python, and Machine Learning**.
+Through internships, academic work, and personal learning, I have gained hands-on exposure to **Java, REST APIs, MySQL, Python, and Machine Learning**.
 
 I enjoy understanding how software works beyond the surface — from designing interfaces and APIs to connecting applications with databases.
 
@@ -39,11 +39,11 @@ I enjoy understanding how software works beyond the surface — from designing i
 
 ### 🌐 Web Development
 
-`HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `React.js`
+`HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `Node.js`
 
 ### ⚙️ Backend & Frameworks
 
-`Java` · `Spring Framework` · `Spring MVC` · `Servlets` · `JSP` · `REST APIs`
+`Java` · `Spring MVC` · `Servlets` · `JSP` · `REST APIs`
 
 ### 🗄️ Databases
 
@@ -51,7 +51,7 @@ I enjoy understanding how software works beyond the surface — from designing i
 
 ### 🔧 Tools
 
-`Git` · `GitHub` · `VS Code` · `Canva`
+`Git` · `GitHub` · `VS Code` · `Canva` · `Vercel` · `Render`
 
 ### 🧠 Core Concepts
 
@@ -89,7 +89,7 @@ I enjoy understanding how software works beyond the surface — from designing i
 **B.Tech — Computer Engineering**
 `2022 – 2026` · Shirpur, Maharashtra
 
-**CGPA:** `7.92 / 10`
+**CGPA:** `8.02 / 10`
 
 ### Government Polytechnic, Jalgaon
 
@@ -118,7 +118,7 @@ I enjoy understanding how software works beyond the surface — from designing i
 ## 🏆 Achievements & Activities
 
 * 🎯 Participant — **Smart India Hackathon**
-* 🎪 Organizer — **Annimeverse, Converges'25**
+* 🎪 Organizer — **Animeverse, Converges'25-RCPIT,Shirpur**
 * 🏅 **Genie Badge** — Infosys Springboard
 * 💡 Active Participant — **Decodex 2026**
 
